@@ -1,4 +1,4 @@
-puzzle1
+Puzzle #1
 =======
 
-Our Glorious Leader
+Our Glorious Leader lost a very sensitive piece of paper. Can you help him find it?
